@@ -1,3 +1,7 @@
+---------------
+
+更新 [CUSTOM-UP](CUSTOM-UP.md)
+----------------
 <p align="center">
   <img src="https://cdn.rawgit.com/ElemeFE/element/dev/element_logo.svg">
 </p>
